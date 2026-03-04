@@ -1,0 +1,12 @@
+Clearwater Ridge Nursing Station — Virtual Check-in Ticket
+Time: 2026-02-01 09:46:15.359383
+Call SID: CA517e8264f144bcd54fd47cc9aa018f39
+Caller Number: +14374757091
+Patient Name: Scott.
+Status: BAD
+
+Patient Statement:
+I've been feeling very unwell. My stomach has been hurting very badly.
+
+AI Summary:
+Scott reports feeling very unwell with severe stomach pain.

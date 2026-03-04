@@ -1,0 +1,9 @@
+Clearwater Ridge Nursing Station — REBOOKING REQUEST
+Time: 2026-02-01 09:46:54
+CallSid: CAc5e3185602b62769c2f99c6a42ce1fc8
+Caller number: +14378716636
+Name + ID (raw): My name is Scott and my ID is 1 2 3.
+Requested new date/time (raw): I would like to reschedule my appointment for February 3rd 2026.
+
+AI summary:
+Patient Scott (ID 123) requests to reschedule their appointment for February 3rd, 2026.
